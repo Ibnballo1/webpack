@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Ibnballo1/webpack/issues"
   },
-  "homepage": "https://github.com/Ibnballo1/webpack#readme"
+  "homepage": "https://github.com/Ibnballo1/webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
 }
