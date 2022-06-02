@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Ibnballo1/webpack#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2"
   },
